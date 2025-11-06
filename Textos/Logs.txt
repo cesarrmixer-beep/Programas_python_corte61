@@ -7,3 +7,5 @@ Resultados:
 14-10-2025 21:10 Creación de archivo Logs
 14-092025 10:11 creacion de mi primer programa
 20/10/2025 06:52 creacion de grafico
+
+FIN!
